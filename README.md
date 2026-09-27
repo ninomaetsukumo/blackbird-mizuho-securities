@@ -2,6 +2,12 @@
 
 Public, privacy-minimised OSINT case study by **Ninomae Tsukumo** examining the public-record environment around the 2026 Securities and Exchange Surveillance Commission (SESC) investigation of Mizuho Securities.
 
+## Permanent Archive
+
+**DOI:** [10.5281/zenodo.22987567](https://doi.org/10.5281/zenodo.22987567)  
+**Version:** v1.0  
+**Archive:** Zenodo
+
 ## Final reports / 最終レポート
 
 **The Mizuho Conspiracy File — Public Edition**  

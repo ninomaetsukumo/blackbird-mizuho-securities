@@ -14,6 +14,9 @@
 | Edition | Public / Privacy-Minimised |
 | Language | English — simple-language edition |
 
+**DOI:** 10.5281/zenodo.22987567  
+**Permanent Archive:** https://doi.org/10.5281/zenodo.22987567
+
 ## IMPORTANT NOTICE
 
 This report is an independent open-source intelligence case study prepared for personal interest, educational purposes, and the development of OSINT and analytical skills. It was not prepared on behalf of a regulator, law-enforcement authority, financial institution, employer, client, media organisation, political organisation, or other third party.
