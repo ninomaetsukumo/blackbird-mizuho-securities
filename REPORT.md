@@ -1,5 +1,8 @@
 # PROJECT BLACKBIRD
 
+**Case-wide evidence map:** [Interactive Evidence Network](https://ninomaetsukumo.github.io/reports/JAPAN-JP-01/EVIDENCE_NETWORK.html) — distinguishes documented relationships, analytical models and evidence limits.
+
+
 # THE MIZUHO CONSPIRACY FILE — PUBLIC EDITION
 
 **A Privacy-Minimised Open-Source Intelligence Case Study of Information-Control Risk, Transaction Governance, and the 2026 SESC Investigation**
