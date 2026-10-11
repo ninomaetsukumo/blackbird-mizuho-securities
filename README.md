@@ -1,5 +1,7 @@
 # Project Blackbird — Mizuho Securities
 
+[Interactive evidence map / インタラクティブ関係図](https://ninomaetsukumo.github.io/reports/JAPAN-JP-01/EVIDENCE_NETWORK.html) — public-record relationship overview with evidence limitations.
+
 Public, privacy-minimised OSINT case study by **Ninomae Tsukumo** examining the public-record environment around the 2026 Securities and Exchange Surveillance Commission (SESC) investigation of Mizuho Securities.
 
 ## Permanent Archive
